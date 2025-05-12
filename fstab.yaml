@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://author-p15404-e146221-cmstg.adobeaemcloud.com/bin/franklin.delivery/bohnertchris/axis-chemicals/main"
+    url: "https://author-p147865-e1511029.adobeaemcloud.com/bin/franklin.delivery/bohnertchris/axis-chemicals/main"
     type: "markup"
     suffix: ".html"
